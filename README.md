@@ -7,7 +7,7 @@ It is a group project that was created for the completion of the Full Stack Trai
  - Mark if thae students were present, had their cameras on, or if they faced any tech issues etc during the class.
  - See the class report or the summary for their assigned cohort.
 
-The admin has access to all the volunteer privilegdes and some additional features such as -
+The admin has access to all the volunteer privileges and some additional features such as -
  - Ability to create a new Student / Volunteer whenever a new user joins CYF community and assign them to their respective cohort.
  - Have access to all the cohorts.
  
